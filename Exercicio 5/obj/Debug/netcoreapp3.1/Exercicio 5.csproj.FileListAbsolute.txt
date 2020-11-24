@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\bin\Debug\netcoreapp3.1\Exercicio 5.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\bin\Debug\netcoreapp3.1\Exercicio 5.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\bin\Debug\netcoreapp3.1\Exercicio 5.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\bin\Debug\netcoreapp3.1\Exercicio 5.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\bin\Debug\netcoreapp3.1\Exercicio 5.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\bin\Debug\netcoreapp3.1\Exercicio 5.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\obj\Debug\netcoreapp3.1\Exercicio 5.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\obj\Debug\netcoreapp3.1\Exercicio 5.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\obj\Debug\netcoreapp3.1\Exercicio 5.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\obj\Debug\netcoreapp3.1\Exercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\obj\Debug\netcoreapp3.1\Exercicio 5.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\obj\Debug\netcoreapp3.1\Exercicio 5.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 5\obj\Debug\netcoreapp3.1\Exercicio 5.genruntimeconfig.cache

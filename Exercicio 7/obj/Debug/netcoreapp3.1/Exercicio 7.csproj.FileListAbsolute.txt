@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista de exercicio\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.genruntimeconfig.cache
